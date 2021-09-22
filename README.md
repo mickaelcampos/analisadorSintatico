@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# analisadorSintatico
-=======
 # analisadorSintatico
 
 ## Instalação:
@@ -24,4 +21,3 @@ ou manualmente com os seguintes comandos:
 
 `$ gcc lex.yy.c y.tab.h -ll`
 
->>>>>>> d4fa0ccbe8588e3faf4f88606260a6f385bbfe42
